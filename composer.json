@@ -1,0 +1,15 @@
+{
+    "name": "syquy/string-helper",
+    "autoload": {
+        "psr-4": {
+            "Syquy\\StringHelper\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "phubinhtinh",
+            "email": "nguyenvphu@studens.hueic.edu.vn"
+        }
+    ],
+    "require": {}
+}
