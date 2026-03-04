@@ -1,6 +1,6 @@
 <?php
 
-namespace Nguyenvana\StringHelper;
+namespace Syquy\StringHelper;
 
 class StringHelper
 {
